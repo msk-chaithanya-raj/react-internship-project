@@ -1,0 +1,41 @@
+[
+    {
+      "department": "customer_service",
+      "sub_departments": [
+        "support",
+        "customer_success"
+      ]
+    },
+    {
+      "department": "design",
+      "sub_departments": [
+        "graphic_design",
+        "product_design",
+        "web_design"
+      ]
+    },
+    {
+      "department": "Agriculture & Fishing (5)",
+      "sub_departments": [
+        "Crops",
+        "Agriculture",
+        "Fishery & Aquaculture",
+        "Farming Animals & Livestock",
+        "Ranching"
+      ]
+    },
+    {
+      "department": "Business Services (25)",
+      "sub_departments": [
+        "Accounting & Accounting Services",
+        "Auctions",
+        "Business Services - General (2)",
+        "Call Centers & Business Centers",
+        "Career Planning",
+        "Career",
+        "Commercial Printing",
+        "Debt Collection"
+      ]
+    }
+  ]
+  
